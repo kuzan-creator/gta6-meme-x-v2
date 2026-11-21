@@ -1,8 +1,8 @@
 # Leonida Express Tracking — GTA 6 Meme on X
 
-[![make.fun entries](https://make.fun/api/badge/competition/gta6-meme-x-01/entries)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun prize](https://make.fun/api/badge/competition/gta6-meme-x-01/prize)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun deadline](https://make.fun/api/badge/competition/gta6-meme-x-01/deadline)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/kuzan-creator/gta6-meme-x-v2/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/kuzan-creator/gta6-meme-x-v2/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 A GTA 6 meme in the shape of a parcel tracking notice from **Leonida Express**: Grand Theft Auto VI was ordered on September 17, 2013, spent 13 years in transit, and was finally delivered on November 19, 2026 — signed for by Jason & Lucia. The delivery was paid for by an AI agent with a bounty payout it earned on make.fun.
 
